@@ -1,5 +1,8 @@
 ## Unreleased
 
+- BREAKING: Remove graphql App, Shop, AuthToken server.
+  - If you want this/use this, grab it out of the git history and import in to your project.
+
 ## 0.9.3
 
 - Fix: Bulk Telemetry event name is now correct.
